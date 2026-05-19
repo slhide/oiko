@@ -1,3 +1,2 @@
 version = 0.0.0; notes = Public Release; url= https://drive.google.com/file/d/1V6K49OPp25XMMUDKLN5fJRsgpsdsSMwg/view?usp=drive_link
-version = 0.0.1; notes = Bug fixes & Balance Patches; url = https://drive.google.com/file/d/1WM6PvWsDRW5Cmj-5HRaahq_JsZhKLxYq/view?usp=drive_link
-version = 0.0.2; notes = Bug fixes, Balance Patches & Organic Updating; url = https://drive.google.com/file/d/1w4aAgkJqo8KIjXew-RO3k9uKfyNr9uEV/view?usp=sharing
+version = 0.0.1; notes = Bug fixes, Balance Patches & Organic Updating; url = https://drive.google.com/file/d/1w4aAgkJqo8KIjXew-RO3k9uKfyNr9uEV/view?usp=sharing
