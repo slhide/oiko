@@ -3,3 +3,5 @@ version = 0.0.1; notes = Bug fixes, Balance Patches & Organic Updating; url = ht
 version = 0.0.2; notes = Bug fixes and Day-Night system for level 3; url = https://drive.google.com/file/d/1bT4WBWAH0alv1P_nqLg_OSjOb3hpdgU-/view?usp=sharing
 version = 0.0.3; notes = Bug Fixes & Balance Patches; url = https://drive.google.com/uc?id=1WfHyHtry_V95_ASUlz6VsElnngjZXykZ
 version = 0.0.5; beta = 317632; notes = Bug Fixes, Balance Patches, Graphic Refinements, Controls Optimisation & Level 2 OST; url = https://drive.google.com/uc?id=1VqUOWWK4BbRfDxP0erYeK6KxDCWiDdg1;
+version = 0.0.5; beta = 317632; notes = Bug Fixes, Balance Patches, Graphic Refinements, Controls Optimisation & Level 2 OST; url = https://drive.google.com/uc?id=1VqUOWWK4BbRfDxP0erYeK6KxDCWiDdg1;
+version = 0.0.6; beta = 317632; notes = Adaptative UI, Graphic Refinements; url = https://drive.google.com/uc?id=1Oh5QJJW67T-HtZQvrxXetlC_ZIgh1dTh;
